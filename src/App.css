@@ -1,0 +1,11 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(228, 229, 231);
+  background-image: url('assets/background.png');
+  margin: 0;
+  max-width: 100vw;
+}
